@@ -1,2 +1,2 @@
 # CryptoPortfolioTracker
-Python script that tracks crypto-portfolio's through the coinMarketCap API
+Python script that tracks crypto-portfolios through the coinMarketCap API
